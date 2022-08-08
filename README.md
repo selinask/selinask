@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @selinask
+- 👋 Hi, I’m Selin
 - 👀  PHP, Html, CSS, Javascript  ilgileniyorum
 - 🌱  Şuan c# öğreniyoum.
 - 📫 How to reach me  - sln_124@hotmail.com adresinden ulaşabilirsiniz.
