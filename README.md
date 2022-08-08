@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @selinask
-- 👀  PHP, Html, CSS, Javascript  ilgileniy.
+- 👀  PHP, Html, CSS, Javascript  ilgileniyorum
 - 🌱  Şuan c# öğreniyoum.
 - 📫 How to reach me  - sln_124@hotmail.com adresinden ulaşabilirsiniz.
 
